@@ -1,0 +1,6 @@
+/data
+/ML2020 Spring/HW02/data
+/ML2020 Spring/HW03/data
+*.pt
+*.npy
+*.pyc
